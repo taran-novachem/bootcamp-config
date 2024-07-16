@@ -80,7 +80,6 @@ bootstrap:
                 description: Data from SAP # HINT
         # HINT: Add another namespace below
 
-
 # de-facto standards for CDF CogniteClient and logger configuration.
 # Following the same parameter structure as the 'Cognite Python Extractor-Utilities'
 # and 'Cognite DB Extractor' configuration.
